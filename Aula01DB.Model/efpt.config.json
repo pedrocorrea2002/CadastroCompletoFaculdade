@@ -1,0 +1,56 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "FaculdadeContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "Aula01DB.Model",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Aluno]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Curso]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Turma]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TurmaAluno]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[vw_pegahora]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[vw_TurmaAluno]",
+         "ObjectType": 3
+      }
+   ],
+   "UiHint": "DESKTOP-DACNNQH\\SQLEXPRESS.Faculdade",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

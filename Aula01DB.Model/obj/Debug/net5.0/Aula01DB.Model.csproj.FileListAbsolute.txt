@@ -1,0 +1,48 @@
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.deps.json
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.dll
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\bin\Debug\net5.0\ref\Aula01DB.Model.dll
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.pdb
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.AssemblyInfoInputs.cache
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.AssemblyInfo.cs
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.dll
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\ref\Aula01DB.Model.dll
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.pdb
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.csproj.AssemblyReference.cache
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.deps.json
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.dll
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\bin\Debug\net5.0\ref\Aula01DB.Model.dll
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.pdb
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.csproj.AssemblyReference.cache
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.AssemblyInfoInputs.cache
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.AssemblyInfo.cs
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.dll
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\ref\Aula01DB.Model.dll
+C:\Users\pedro\Dropbox\Estudo\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.pdb
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.deps.json
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.dll
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\bin\Debug\net5.0\ref\Aula01DB.Model.dll
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.pdb
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.csproj.AssemblyReference.cache
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.AssemblyInfoInputs.cache
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.AssemblyInfo.cs
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.csproj.CoreCompileInputs.cache
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.dll
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\ref\Aula01DB.Model.dll
+G:\Programation\C#\SQL\Aula1DB - Copia\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.pdb
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.deps.json
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.dll
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\bin\Debug\net5.0\ref\Aula01DB.Model.dll
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\bin\Debug\net5.0\Aula01DB.Model.pdb
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.csproj.AssemblyReference.cache
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.AssemblyInfoInputs.cache
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.AssemblyInfo.cs
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.csproj.CoreCompileInputs.cache
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.dll
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\ref\Aula01DB.Model.dll
+G:\Programation\C#\SQL\Aula1DB\Aula01DB.Model\obj\Debug\net5.0\Aula01DB.Model.pdb
